@@ -5,7 +5,7 @@ import React from 'react';
 const PlaceDetailScreen = () => {
 	return (
 		<View style={styles.container}>
-			<Text>Detalle Direccion</Text>
+			<Text>Información detallada</Text>
 		</View>
 	);
 };
